@@ -80,7 +80,7 @@ export default function Home() {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
-              Pablo Jaspe
+              Patrick Jasper
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-300 mb-6">
               Mechanical Engineering Student
@@ -239,7 +239,7 @@ export default function Home() {
       <footer className="bg-gray-50 dark:bg-gray-800 py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-gray-600 dark:text-gray-400">
-            © 2024 Pablo Jaspe. All rights reserved.
+            © 2025 Patrick Jasper. All rights reserved.
           </p>
         </div>
       </footer>
