@@ -105,9 +105,15 @@ export default function Home() {
             </div>
           </div>
           <div className="hidden md:block">
-            {/* Profile image placeholder */}
-            <div className="w-64 h-64 mx-auto bg-gray-200 dark:bg-gray-700 rounded-full">
-              {/* Add your profile image when ready */}
+            <div className="w-64 h-64 mx-auto overflow-hidden rounded-full">
+              <Image
+                src="/ProfilePhoto.jpeg"
+                alt="Patrick Jasper"
+                width={256}
+                height={256}
+                className="w-full h-full object-cover"
+                priority
+              />
             </div>
           </div>
         </div>
