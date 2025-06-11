@@ -102,6 +102,12 @@ export default function Home() {
               >
                 View Projects
               </a>
+              <a
+                href="/drawings"
+                className="border border-blue-600 text-blue-600 px-6 py-2 rounded-full hover:bg-blue-50 dark:hover:bg-gray-800 transition-colors"
+              >
+                View Drawings
+              </a>
             </div>
           </div>
           <div className="hidden md:block">
